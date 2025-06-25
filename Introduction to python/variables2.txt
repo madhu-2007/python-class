@@ -1,0 +1,39 @@
+#python variables 2
+#python outputs
+
+x="python is amazing"
+print(x)
+
+
+x="python"
+y="is"
+z="amazing"
+print(x,y,z)
+
+x= "python"
+y= "is "
+z= "amazing"
+print(x  + y + z)
+
+x=5
+y=9
+print(x+y)
+
+
+
+x = "awesome"
+
+def myfunc():
+  print("Python is " + x)
+
+myfunc()
+
+x = "awesome"
+
+def myfunc():
+     print("Python is " + x)
+     
+myfunc()
+
+
+

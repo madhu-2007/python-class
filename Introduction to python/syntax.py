@@ -1,0 +1,12 @@
+if 5 > 2 :
+   print ("five is greater than five ")
+
+if 4 < 6 :
+   print ("four is less than six ")
+
+if 4 > 6 :
+   print ("four is less than six ")
+
+if 7 < 10:
+   print("seven is less than ten ")
+ 

@@ -1,0 +1,23 @@
+#print ("hello,world " )
+#print ("hello" )
+print("hi")
+
+
+#multiline comments
+#this is a multiline
+#comment written in more
+#than one line
+print("hey")
+
+""" this is a
+    comment written in
+    more than one line
+"""
+print("hiii")
+    
+
+'''this is a
+    comment written in
+    more than one line
+'''
+print("hiiii")

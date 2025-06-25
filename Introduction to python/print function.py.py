@@ -1,0 +1,5 @@
+print("Name : Madhuvanthe ")
+print("Age : 17 ")
+print("DOB :10/09/2007 ")
+print("School : The Study ")
+print("Place : Pondicherry ")
