@@ -1,13 +1,13 @@
-##number=1
-##while number<=15:
-##  print(number)
-##  number+=1
+# number=1
+# while number<=15:
+#  print(number)
+#  number+=1
 
-##number=6
-##while number<=29:                                                      
-##    if number%2!=0:
-##        print(number)
-##    number  +=1
+# number=6
+# while number<=29:                                                      
+#    if number%2!=0:
+#        print(number)
+#    number  +=1
 
 ##number=20
 ##while number<=40:
@@ -39,11 +39,11 @@
 ##total = 0
 ##while i < len(my_list):
 ##    total+=(my_list[i])
-##    i+=1
+##    i+=1 
 ##print("Sum of all elements:", total) 
 
 
-##i = 1
+##i = 1 
 ##total = 0
 ##
 ##while i <= 100: 
@@ -74,15 +74,14 @@
 
 
 
-##n=int(input("enter any number"))
-##a = 0
-##b = 1
-##count = 0
-##
-##while count < n:
-##    print(a, end=" ")
-##    a,b = b,a+b
-##    count += 1
+# n=int(input("enter any number"))
+# a = 0
+# b = 1
+# count = 0
+# while count < n:
+#    print(a,end="")
+#    a,b = b,a+b
+#    count += 1 
 
   
 

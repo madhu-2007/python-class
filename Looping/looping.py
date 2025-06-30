@@ -89,13 +89,13 @@
 ##        factorial *= i
 ##print(factorial)
 ##
-##fibanocci series
-##n=int(input("enter any number"))
-##a,b=0,1
-##print("fibanocci series")
-##for i in range(n):
-##  print(a)
-## a,b=b,a+b   
+#fibanocci series
+# n=int(input("enter any number"))
+# a,b=0,1
+# print("fibanocci series")
+# for i in range(n):
+#  print(a)
+# a,b=b,a+b   
 
 ##numbers = [3, 5, 7, 2, 8, 1]
 ##max_number = numbers[0]  
@@ -108,7 +108,18 @@
 
          
 
+N = int(input("Enter a number: "))
 
+# Initialize sum
+sum_odd = 0
+
+# Loop through numbers from 1 to N
+for i in range(1, N + 1):
+    if i % 2 != 0:
+        sum_odd += i
+
+# Print the result
+print("Sum of odd numbers up to", N, "is:", sum_odd)
 
 
 

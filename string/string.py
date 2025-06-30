@@ -1,25 +1,25 @@
-##name = "Madhuvanthe"
-##print(len(name))
-##print(name[3])
-##for i in name:
-##  print(i)
-##for i in "yuktha":
-##    print(i)
+# name = "Madhuvanthe"
+# print(len(name))
+# print(name[3])
+# for i in name:
+#  print(i)
+# for i in "yuktha":
+#    print(i)
 ##
 ##
-##txt = "     The best things in life are free! "
-##print("best" in txt)
-##print("user" not in txt)
+# txt = "     The best things in life are free! "
+# print("best" in txt)
+# print("user"  in txt)
 ##
-##print(name[0:5])
-##print(name[:5])
-##print(name[5:])
-##print(txt.upper())
-##print(txt.lower())
-##print(txt.strip())
-##print(txt.replace("b","w"))
-##cartoon = "tom and jerry"
-##print(cartoon.split("and"))
+# print(name[0:5])
+# print(name[:5])
+# print(name[5:])
+# print(txt.upper())
+# print(txt.lower())
+# print(txt.strip())
+# print(txt.replace("b","w"))
+# cartoon = "tom and jerry"
+# print(cartoon.split("and"))
 ##
 ##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ##
@@ -61,8 +61,8 @@
 ##a="telephone"
 ##print(a[4:])
 
-##a="telephone"
-##print(a[-5:-1])
+# a="telephone"
+# print(a[-5:-1])
 ##
 ##
 ##a="hardwork"
@@ -77,8 +77,8 @@
 ##a="car"
 ##print(a.replace("c","b"))
 
-##a= "hello,world"
-##print(a.strip(","))
+# a= "hello,world"
+# print(a.strip(","))
 
 ##a = "Hello"
 ##b = "World"
@@ -106,8 +106,8 @@
 
 ##escape characters
 
-##txt = "We are the so-called \"Vikings\" from the north."
-##print(txt)
+# txt = "We are the so-called \"Vikings\" from the north."
+# print(txt)
 ##
 ##txt="it\'s a cat"
 ##print(txt)
@@ -118,15 +118,15 @@
 ##txt = "Hello\nWorld!"
 ##print(txt)
 ##
-##txt = "Hello\rWorld!"
-##print(txt)
+# txt = "Hello\rWorld!"
+# print(txt)
 ##
-##txt="hello\tWorld!"
-##print(txt)
+# txt="hello\tWorld!"
+# print(txt)
 
 
-##txt = "Hello \bWorld!"
-##print(txt) 
+# txt = "Hello \bWorld!"
+# print(txt) 
 
 ##txt = "Hello \fWorld!"
 ##print(txt)
@@ -144,9 +144,7 @@
 ##print(x)
 ##
 
-##txt="learning is GREAT"
-##x=txt.casefold()
-##print(x)
+
 
 ##txt="hi"
 ##x=txt.center(10)
@@ -261,8 +259,8 @@
 ##txt = "Hello, welcome to my world."
 ##print(txt.index("m"))
 
-##txt="SUV18"
-##print(txt.isalnum())
+txt="SUV18"
+print(txt.isalnum())
 ##
 ##txt=" SUV 18 "
 ##print(txt.isalnum())
