@@ -1,4 +1,4 @@
-import random
+# import random
 # print(random.random())
 # print(random.randint(1,56))
 # items=["a","b","c","d"]
@@ -6,7 +6,7 @@ import random
 # print(random.choices(items))
 
 # u =[1,2,3,4,5,6,7]
-# random.shuffle(u)
-# print(u)
+# x=random.shuffle(u)
+# print(x)
 # print(random.uniform(5,10))
 # print(random.randrange(5,10,2))

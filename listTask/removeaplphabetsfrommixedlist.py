@@ -1,7 +1,10 @@
-# list=[10,"h",7,"o","d",56]
-# if type of list="string"
+items = [10, "h", 7, "o", "d", 56]
+result = []
 
-#     if i !=:
-#         result.append(i)
-#     print(result)
+for i in items:
+    if type(i) != str:
+        result.append(i)
+
+print(result)
+
     
